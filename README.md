@@ -1,0 +1,1 @@
+This example demonstrates a common error in COBOL programs involving numeric field precision.  The `WS-AMOUNT` field is defined with a precision that might not be sufficient for the sum of the added values.  The solution shows how to increase the precision to prevent data truncation and ensure accurate calculations.
